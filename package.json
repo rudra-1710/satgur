@@ -1,7 +1,7 @@
 {
   "name": "satgur-react",
   "version": "0.1.0",
-  "homepage": "http://gfxpartner.com/cbex-react",
+  "homepage": "http://gfxpartner.com/satgur-react",
   "private": true,
   "dependencies": {
     "@popperjs/core": "^2.9.2",
