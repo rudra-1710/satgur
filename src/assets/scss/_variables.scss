@@ -1,0 +1,32 @@
+
+$primary-color: #0096ff;
+$primary-color-rgba-60: rgba(0, 150, 255, .6);
+$primary-color-light: #e6f5ff;
+$primary-color-light-2: #f1f9ff;
+$primary-color-light-3: #dbf0ff;
+
+$color-grey: #656f75;
+$color-grey-1: #ccd1d4;
+$color-grey-2: #dbe3e8;
+
+$color-dark: #32373a;
+$color-dark-2: #24282a;
+
+$color-light: #bcc7d0;
+$color-light-1: #f0f4f7;
+$color-light-2: #d9e1e7;
+
+$color-grey-1: #e9eef1;
+
+$facebook: #45619c;
+$twitter: #00acee;
+$pinterest: #de252a;
+$linkedin : #1d87bd;
+
+:root {
+    --border: 20px;
+    
+    @media (max-width: 992px) {
+        --border: 10px;
+    }
+}
