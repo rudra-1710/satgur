@@ -19,7 +19,7 @@ const App = () => {
 
 
   return (
-      <BrowserRouter basename="/satgur-react">
+      <BrowserRouter basename="/satgur">
         <CustomScrollbar/>
         <Markup />
       </BrowserRouter>
